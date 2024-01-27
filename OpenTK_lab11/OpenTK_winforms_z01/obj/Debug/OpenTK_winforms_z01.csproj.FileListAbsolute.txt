@@ -1,0 +1,2 @@
+C:\Users\Bradatan\Downloads\Laborator EGC 10-1 (2023-2024) (1)\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.AssemblyReference.cache
+C:\Users\Bradatan\Downloads\Laborator EGC 10-1 (2023-2024) (1)\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.SuggestedBindingRedirects.cache
